@@ -1,6 +1,7 @@
 {
   "name": "sellyourthings",
   "displayName": "sellyourthings",
+  "orientation": "default",
   "expo": {
     "name": "sellyourthings",
     "slug": "sellyourthings",
