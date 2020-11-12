@@ -1,6 +1,6 @@
 import React from "react";
 
-import Application from "./app/appLoading";
+import Application from "./app/login";
 
 function App(props) {
   return <Application />;
